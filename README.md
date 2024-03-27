@@ -54,10 +54,10 @@
       <br />
       <h3>About me</h3>
       <p>
-        Greeting and welcome to my portfolio. <br />
-        My name is Nafisah, a student at PLP
+        Greetings and welcome to my portfolio. <br />
+        My name is Nafeesah, a student at PLP
       </p>
-      <h3>Project i have worked on:</h3>
+      <h3>Project I have worked on:</h3>
       <ol>
         <li>Document management system</li>
         <li>Conceirge service management</li>
